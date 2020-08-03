@@ -15,7 +15,7 @@ networks.
 
 ## Publications
 
-Switch Code Generation using Program Synthesis.
+[Switch Code Generation using Program Synthesis](https://dl.acm.org/doi/pdf/10.1145/3387514.3405852).
     Xiangyu Gao, **Taegyun Kim**, Michael Dean Wong, Divya Raghunathan,
     Aatish Kishan Varma, Pravein Govindan Kannan, Anirudh Sivaraman, Srinivas Narayana, and Aarti Gupta.
     [SIGCOMM 2020](https://conferences.sigcomm.org/sigcomm/2020/)
