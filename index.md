@@ -4,7 +4,7 @@ taegyun dot kim at nyu dot edu
 
 ## Biography
 I am a PhD student in the department of Computer Science at New York University,
-advised by [Prof. Anirudh Sivaraman](https://cs.nyu.edu/~anirudh). Before PhD,
+advised by [Prof. Dennis Shasha](https://cs.nyu.edu/shasha/). Before PhD,
 I worked at Google NYC from 2015 to 2019. I received B.S. in Computer Science
 from Carnegie Mellon University. My research interests are computer systems and
 networks.
