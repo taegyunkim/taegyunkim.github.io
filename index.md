@@ -14,11 +14,11 @@ networks.
 - B.S. in Computer Science, Carnegie Mellon University, Aug 2009 - Dec 2014
 
 ## Publications
-Snicket: Query-Driven Distributed Tracing. 
-Jessica Berg, Fabian Ruffy, Khanh Nguygen, Nicholas Lee, **Taegyun Kim**, Anirudh Sivaraman, Ravi Netravali, and Srinivas Narayana. 
+[Snicket: Query-Driven Distributed Tracing](https://people.cs.rutgers.edu/~sn624/papers/snicket-hotnets21.pdf).
+Jessica Berg, Fabian Ruffy, Khanh Nguygen, Nicholas Lee, **Taegyun Kim**, Anirudh Sivaraman, Ravi Netravali, and Srinivas Narayana.
 [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/)
 
-[Switch Code Generation using Program Synthesis](https://dl.acm.org/doi/pdf/10.1145/3387514.3405852). 
+[Switch Code Generation using Program Synthesis](https://dl.acm.org/doi/pdf/10.1145/3387514.3405852).
 Xiangyu Gao, **Taegyun Kim**, Michael Dean Wong, Divya Raghunathan, Aatish Kishan Varma, Pravein Govindan Kannan, Anirudh Sivaraman, Srinivas Narayana, and Aarti Gupta.
 [SIGCOMM 2020](https://conferences.sigcomm.org/sigcomm/2020/)
 
