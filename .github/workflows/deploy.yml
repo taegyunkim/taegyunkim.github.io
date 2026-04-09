@@ -21,18 +21,18 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
       - name: Checkout private vault into content/
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: taegyunkim/obsidian-notes
           token: ${{ secrets.VAULT_REPO_PAT }}
           path: content
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
 
@@ -43,7 +43,7 @@ jobs:
         run: npx quartz build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: public
 
@@ -56,4 +56,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
